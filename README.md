@@ -18,7 +18,7 @@ Pour tester il faut :
 <ul>
          <li> Le dossier "iads" </li>
          <li> Le fichier "Projet_kemiche.ipynb" </li> 
-         <li> Le dossier "Donnees_Agribalyse" contenant la base de données <li>
+         <li> Le dossier "Donnees_Agribalyse" contenant la base de données </li>
  </ul> 
          </li>
          <li> Ouvrir un terminal </li>
@@ -26,7 +26,7 @@ Pour tester il faut :
          <li> lancer la commande " jupyter notebook & " </li>
          <li> Une nouvelle fenêtre sur un navigateur va apparaitre </li>
          <li> Ouvrir sur cette fenêtre le fichier "Projet_kemiche.ipynb" </li> 
-         <li> Exécuter chaque cellule sur le notebook </li> 
+         <li> Exécuter chaque cellule du notebook </li> 
   </ol>
   
 ## Traitement des données
