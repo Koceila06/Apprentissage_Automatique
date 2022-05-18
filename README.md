@@ -11,7 +11,6 @@ Les problématiques étant à définir par nous même, elles comprennent :
   </ul>
 
 ## Traitement des données
-Avant de commencer à traiter nos données, on a constaté que les valeurs n’était pas toujours 
 <ul>
          <li> Numérisation des données catégorielles </li>
          <li> Normalisation des données pour le k-moyennes </li>
