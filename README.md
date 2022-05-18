@@ -41,7 +41,7 @@ performants que le Perceptron
 ## Apprentissage non supervisé 
 
 ### Problématique choisie
-#### Hypothése 
+#### Hypothèse   
 Aprés lecture de la documentation de la base de données, on a fait l'hypothése que la base de données est divisée en deux groupes :
 <ul>
          <li> Produits polluants </li>
@@ -50,5 +50,19 @@ Aprés lecture de la documentation de la base de données, on a fait l'hypothés
 
 ### Algorithmes d’apprentissage appliqués
 <ul>
-         <li> K-Moyennes </li>
+         <li> K-Moyennes (k==2) </li>
 </ul> 
+### Vérification d'hypothèse  
+Pour une meilleure précision et une meilleure vision des différences entre les deux clusters et 
+pour pouvoir en tirer une conclusion, un traitement supplémentaire sur les données était nécessaire  : 
+<ul> 
+         <li> suppression des colonnes non discriminantes </li>
+ </ul>
+ 
+### Résultat obtenu 
+
+#### Premier cluster 
+
+![Résultat1](https://user-images.githubusercontent.com/77555379/169166920-52c6312b-2e50-49e1-9800-957c276fd459.png)
+#### Deuxième cluster 
+![Résultat2](https://user-images.githubusercontent.com/77555379/169166948-58cd73c4-5478-4cac-93a2-13e48e343a48.png)
