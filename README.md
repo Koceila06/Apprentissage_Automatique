@@ -9,25 +9,6 @@ Les problématiques étant à définir par nous même, elles comprennent :
   <li>  un problème d'apprentissage supervisé </li>
   <li>  un problème d'apprentissage non supervisé </li>
   </ul>
-
-## Comment tester 
-
-Pour tester il faut : 
-<ol> 
-         <li> Télécharger : 
-<ul>
-         <li> Le dossier "iads" </li>
-         <li> Le fichier "Projet_kemiche.ipynb" </li> 
-         <li> Le dossier "Donnees_Agribalyse" contenant la base de données </li>
- </ul> 
-         </li>
-         <li> Ouvrir un terminal </li>
-         <li> se placer sur la racine du projet </li> 
-         <li> lancer la commande " jupyter notebook & " </li>
-         <li> Une nouvelle fenêtre sur un navigateur va apparaitre </li>
-         <li> Ouvrir sur cette fenêtre le fichier "Projet_kemiche.ipynb" </li> 
-         <li> Exécuter chaque cellule du notebook </li> 
-  </ol>
   
 ## Traitement des données
 <ul>
@@ -98,3 +79,25 @@ produits "polluants" (deuxième cluster) et un autre cluster composé des produi
 
 A présent, On peut se servir de ces résultats pour faire de l'inférence ( supervisé ) en 
 comparant chaque nouvelle entrée au centroïde de chacun des clusters et de l’affecter au plus proches
+
+## Comment tester 
+
+Pour tester il faut : 
+<ol> 
+         <li> Télécharger : 
+<ul>
+         <li> Le dossier "iads" </li>
+         <li> Le fichier "Projet_kemiche.ipynb" </li> 
+         <li> Le dossier "Donnees_Agribalyse" contenant la base de données </li>
+ </ul> 
+         </li>
+         <li> Ouvrir un terminal </li>
+         <li> Se placer sur la racine du projet </li> 
+         <li> Lancer la commande " jupyter notebook & " </li>
+         <li> Une nouvelle fenêtre sur un navigateur va apparaitre </li>
+         <li> Ouvrir sur cette fenêtre le fichier "Projet_kemiche.ipynb" </li> 
+         <li> Exécuter chaque cellule du notebook </li> 
+  </ol>
+  
+## Auteur
+Koceila Kemiche
