@@ -38,3 +38,11 @@ Prédiction du goupe d'aliments d'un produit en fonction des autres attributs
 les algorithmes d'apprentissage « KNN » et « Arbre de décision » ont des résultats similaires et plus 
 performants que le Perceptron 
 
+## Apprentissage non supervisé 
+
+### Problématique choisie
+Aprés lecture de la documentation de la base de données, la problématique choisie est de diviser la base de données en deux groupes :
+<ul>
+         <li> Produits polluant </li>
+         <li> Produits non polluants </li> 
+</ul>
