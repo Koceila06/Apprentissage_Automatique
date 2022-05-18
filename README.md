@@ -10,6 +10,24 @@ Les problématiques étant à définir par nous même, elles comprennent :
   <li>  un problème d'apprentissage non supervisé </li>
   </ul>
 
+## Comment tester 
+
+Pour tester il faut : 
+<ol> 
+         <li> Télécharger : 
+<ul>
+         <li> Le dossier "iads" </li>
+         <li> Le fichier "Projet_kemiche.ipynb" </li> 
+         <li> Le dossier "Donnees_Agribalyse" contenant la base de données <li>
+ </ul> 
+         </li>
+         <li> bOuvrir un terminal </li>
+         <li> se placer sur la racine du projet </li> 
+         <li> lancer la commande " jupyter notebook & " </li>
+         <li> Une nouvelle fenêtre sur un navigateur apparait </li>
+         <li> Ouvrir sur cette fenêtre le fichier "Projet_kemiche.ipynb" </li> 
+  </ol>
+  
 ## Traitement des données
 <ul>
          <li> Numérisation des données catégorielles </li>
