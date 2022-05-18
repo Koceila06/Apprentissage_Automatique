@@ -21,11 +21,12 @@ Pour tester il faut :
          <li> Le dossier "Donnees_Agribalyse" contenant la base de données <li>
  </ul> 
          </li>
-         <li> bOuvrir un terminal </li>
+         <li> Ouvrir un terminal </li>
          <li> se placer sur la racine du projet </li> 
          <li> lancer la commande " jupyter notebook & " </li>
-         <li> Une nouvelle fenêtre sur un navigateur apparait </li>
+         <li> Une nouvelle fenêtre sur un navigateur va apparaitre </li>
          <li> Ouvrir sur cette fenêtre le fichier "Projet_kemiche.ipynb" </li> 
+         <li> Exécuter chaque cellule sur le notebook </li> 
   </ol>
   
 ## Traitement des données
