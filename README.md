@@ -41,6 +41,7 @@ performants que le Perceptron
 ## Apprentissage non supervisé 
 
 ### Problématique choisie
+
 #### Hypothèse   
 Aprés lecture de la documentation de la base de données, on a fait l'hypothése que la base de données est divisée en deux groupes :
 <ul>
@@ -52,6 +53,7 @@ Aprés lecture de la documentation de la base de données, on a fait l'hypothés
 <ul>
          <li> K-Moyennes (k==2) </li>
 </ul> 
+
 ### Vérification d'hypothèse  
 Pour une meilleure précision et une meilleure vision des différences entre les deux clusters et 
 pour pouvoir en tirer une conclusion, un traitement supplémentaire sur les données était nécessaire  : 
