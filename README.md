@@ -71,4 +71,4 @@ Les valeurs de tout attributs du deuxième cluster sont supérieure à celui du 
 ### Conclusion 
 On peut se dire dans ce cas qu'on possède un cluster qui représente les 
 produits "polluants" (deuxième cluster) et un autre cluster composé des produits peu 
-"polluant" ( premier ) <G> Donc notre hypothèse de départ est pertinente </G>
+"polluant" ( premier ) <Strong> Donc notre hypothèse de départ est pertinente </Strong>
