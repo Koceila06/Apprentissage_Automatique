@@ -68,7 +68,7 @@ pour pouvoir en tirer une conclusion, un traitement supplémentaire sur les donn
 <img width="217" alt="Capture4" src="https://user-images.githubusercontent.com/77555379/169168398-dd5acb45-5ec9-46ea-8d59-f3e99415214f.PNG">
 
 ### Observations 
-Les valeurs de tout attributs du deuxième cluster sont supérieure à celui du premier
+Les valeurs de tout attributs du deuxième cluster sont supérieures à celles du premier
 
 ### Conclusion 
 On peut se dire dans ce cas qu'on possède un cluster qui représente les 
