@@ -79,7 +79,7 @@ On peut se dire dans ce cas qu'on possède un cluster qui représente les
 produits "polluants" (deuxième cluster) et un autre cluster composé des produits peu 
 "polluant" ( premier ) <Strong> notre hypothèse de départ est donc pertinente </Strong>
 
-A présent, On peut se servir de ces résultats pour faire de l'inférence ( supervisé ) en 
+A présent, on peut se servir de ces résultats pour faire de l'inférence ( supervisé ) en 
 comparant chaque nouvelle entrée au centroïde de chacun des clusters et de l’affecter au plus proches
 
 ## Comment tester 
