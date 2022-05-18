@@ -58,9 +58,9 @@ Aprés lecture de la documentation de la base de données, on a fait l'hypothés
 Aprés avoir déroulé le K-moyennes : 
 
 Pour une meilleure précision et une meilleure vision des différences entre les deux clusters et 
-pour pouvoir en tirer une conclusion, un traitement supplémentaire sur les données était nécessaire  : 
+pour pouvoir en tirer une conclusion, un traitement supplémentaire sur les données est nécessaire  : 
 <ul> 
-         <li> suppression des colonnes non discriminantes </li>
+         <li> Suppression des colonnes non discriminantes </li>
  </ul>
  
 ### Résultat obtenu 
