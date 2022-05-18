@@ -22,4 +22,8 @@ Les problématiques étant à définir par nous même, elles comprennent :
 Etude de la pollution ou non des produits selon leurs moyen de transport 
 ( avion ou non avion) car cela a un impact direct sur les emissions de C02
 #### Difficulté 
-Deux transport par avion dans toutes la base de données, ce qui est insuffisant pour pouvoir appliquer la validation croisée et tester nos algorithmes d'apprentissage.
+Deux transport par avion dans toutes la base de données, ce qui est insuffisant pour l'appliquation de la validation croisée et pour le teste de nos algorithmes d'apprentissage.
+
+### Problématique choisie
+Prédiction du goupe d'aliments d'un produit en fonction des autres attributs
+
