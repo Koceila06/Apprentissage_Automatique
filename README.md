@@ -32,7 +32,6 @@ Prédiction du goupe d'aliments d'un produit en fonction des autres attributs
          <li> KNN </li>
          <li> Perceptron </li>
          <li> Arbre de décision </li>
-</li>
 </ul>
 ### Conclusion 
 les algorithmes d'apprentissage « KNN » et « Arbre de décision » ont des résultats similaires et plus 
