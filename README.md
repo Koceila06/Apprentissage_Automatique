@@ -78,4 +78,4 @@ produits "polluants" (deuxième cluster) et un autre cluster composé des produi
 "polluant" ( premier ) <Strong> notre hypothèse de départ est donc pertinente </Strong>
 
 A présent, On peut se servir de ces résultats pour faire de l'inférence ( supervisé ) en 
-comparant chaque nouvelle entrée aux centroïdes de chacun des clusters et de l’affecter au plus proches
+comparant chaque nouvelle entrée au centroïde de chacun des clusters et de l’affecter au plus proches
