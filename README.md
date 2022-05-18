@@ -27,9 +27,14 @@ Deux transport par avion dans toutes la base de données, ce qui est insuffisant
 ### Problématique choisie
 Prédiction du goupe d'aliments d'un produit en fonction des autres attributs
 
-#### Algorithmes d’apprentissage appliqués
+### Algorithmes d’apprentissage appliqués
 <ul>
          <li> KNN </li>
          <li> Perceptron </li>
          <li> Arbre de décision </li>
 </li>
+
+### Conclusion 
+les algorithmes d'apprentissage « KNN » et « Arbre de décision » ont des résultats similaires et plus 
+performants que le Perceptron 
+
