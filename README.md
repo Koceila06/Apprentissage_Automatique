@@ -36,7 +36,7 @@ Prédiction du goupe d'aliments d'un produit en fonction des autres attributs
 
 ### Conclusion 
 les algorithmes d'apprentissage « KNN » et « Arbre de décision » ont des résultats similaires et plus 
-performants que le Perceptron 
+performants que le « Perceptron »
 
 ## Apprentissage non supervisé 
 
@@ -55,6 +55,8 @@ Aprés lecture de la documentation de la base de données, on a fait l'hypothés
 </ul> 
 
 ### Vérification d'hypothèse  
+Aprés avoir déourlé le K-moyennes : 
+
 Pour une meilleure précision et une meilleure vision des différences entre les deux clusters et 
 pour pouvoir en tirer une conclusion, un traitement supplémentaire sur les données était nécessaire  : 
 <ul> 
