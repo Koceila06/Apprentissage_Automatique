@@ -65,4 +65,4 @@ pour pouvoir en tirer une conclusion, un traitement supplémentaire sur les donn
 <img width="247" alt="Capture3" src="https://user-images.githubusercontent.com/77555379/169168271-f9000551-cc84-497e-ad79-1f5619b9451a.PNG">
 
 #### Deuxième cluster 
-<img width="214" alt="Capture2" src="https://user-images.githubusercontent.com/77555379/169168094-8ac4859c-b2ad-4b2e-b0aa-fd2d3ebeb2c4.PNG">
+<img width="217" alt="Capture4" src="https://user-images.githubusercontent.com/77555379/169168398-dd5acb45-5ec9-46ea-8d59-f3e99415214f.PNG">
