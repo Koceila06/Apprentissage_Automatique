@@ -41,8 +41,14 @@ performants que le Perceptron
 ## Apprentissage non supervisé 
 
 ### Problématique choisie
-Aprés lecture de la documentation de la base de données, la problématique choisie est de diviser la base de données en deux groupes :
+#### Hypothése 
+Aprés lecture de la documentation de la base de données, on a fait l'hypothése que la base de données est divisée en deux groupes :
 <ul>
-         <li> Produits polluant </li>
+         <li> Produits polluants </li>
          <li> Produits non polluants </li> 
 </ul>
+
+### Algorithmes d’apprentissage appliqués
+<ul>
+         <li> K-Moyennes </li>
+</ul> 
