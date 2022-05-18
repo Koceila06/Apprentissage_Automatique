@@ -15,3 +15,11 @@ Les problématiques étant à définir par nous même, elles comprennent :
          <li> Numérisation des données catégorielles </li>
          <li> Normalisation des données pour le k-moyennes </li>
 </ul>
+
+## Apprentissage supervisé 
+
+### Problématique de départ 
+Etude de la pollution ou non des produits selon leurs moyen de transport 
+( avion ou non avion) car cela a un impact direct sur les emissions de C02
+#### Difficulté 
+Deux transport par avion dans toutes la base de données, ce qui est insuffisant pour pouvoir appliquer la validation croisée et tester nos algorithmes d'apprentissage.
