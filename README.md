@@ -62,7 +62,7 @@ pour pouvoir en tirer une conclusion, un traitement supplémentaire sur les donn
 ### Résultat obtenu 
 
 #### Premier cluster 
-<img width="205" alt="Capture" src="https://user-images.githubusercontent.com/77555379/169168073-535f2138-56f4-4725-b626-42059bbadf5c.PNG">
+<img width="247" alt="Capture3" src="https://user-images.githubusercontent.com/77555379/169168271-f9000551-cc84-497e-ad79-1f5619b9451a.PNG">
 
 #### Deuxième cluster 
 <img width="214" alt="Capture2" src="https://user-images.githubusercontent.com/77555379/169168094-8ac4859c-b2ad-4b2e-b0aa-fd2d3ebeb2c4.PNG">
