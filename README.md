@@ -72,12 +72,12 @@ pour pouvoir en tirer une conclusion, un traitement supplémentaire sur les donn
 <img width="217" alt="Capture4" src="https://user-images.githubusercontent.com/77555379/169168398-dd5acb45-5ec9-46ea-8d59-f3e99415214f.PNG">
 
 ### Observations 
-Les valeurs de tout attributs du deuxième cluster sont supérieures à celles du premier
+Les valeurs de tout les attributs du deuxième cluster sont supérieures à celles du premier
 
 ### Conclusion 
 On peut se dire dans ce cas qu'on possède un cluster qui représente les 
 produits "polluants" (deuxième cluster) et un autre cluster composé des produits peu 
-"polluant" ( premier ) <Strong> notre hypothèse de départ est donc pertinente </Strong>
+"polluant" ( premier cluster ) <Strong> notre hypothèse de départ est donc pertinente </Strong>
 
 A présent, on peut se servir de ces résultats pour faire de l'inférence ( supervisé ) en 
 comparant chaque nouvelle entrée au centroïde de chacun des clusters et de l’affecter au plus proches
